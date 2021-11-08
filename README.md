@@ -1,2 +1,2 @@
 # rocket
-Scripts in Java for Testing
+Exercises in GO
